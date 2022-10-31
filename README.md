@@ -1,6 +1,4 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+QR code component
 
 ## Table of contents
 
@@ -15,12 +13,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot.png)
+<p align="center" width="100%"> 
+<img src="/screenshots/Screenshot-01-desktop.PNG" alt="" width="100%"/>
+</p>
 
 ### Links
 
-- Solution URL: [GitHub repository](https://github.com/tomeklucz/FM-qr-code-component)
-- Live Site URL: [Netlify](https://tomeklucz-fm-qr-code-component.netlify.app/)
+- Solution URL: [GitHub repository](https://github.com/tomeklucz/qr-code-component)
+- Live Site URL: [Netlify](https://tomeklucz-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -32,5 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@tomeklucz](https://www.frontendmentor.io/profile/tomeklucz)
 - GitHub - [@tomeklucz](https://github.com/tomeklucz)
